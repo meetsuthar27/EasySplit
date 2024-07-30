@@ -34,7 +34,7 @@ EasySplit is a React application designed to help users split bills with friends
 2. **Navigate to the project directory:**
 
 ```bash
-  cd voyagers-list
+  cd EasySplit
 ```
 
 3. **Install dependencies:**
